@@ -14,17 +14,17 @@
   https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en
 
 - ⚡ Research:
-  * Unified image fusion
+  *__Unified image fusion__
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
   3. Liu, J., Li, S., Tan, L., & Dian, R. (2024). Denoiser Learning for Infrared and Visible Image Fusion. IEEE Transactions on Neural Networks and Learning Systems.
-  * Multi-Focus Image Fusion
+  * __Multi-Focus Image Fusion__
   1. Liu, J., Li, S., Dian, R., & Song, Z. (2023). Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion. IEEE Transactions on Multimedia.
-  * Polarization Image Fusion
+  * __Polarization Image Fusion__
   1. Liu, J., Li, S., Dian, R., & Song, Z. (2024). DT-F Transformer: Dual transpose fusion transformer for polarization image fusion. Information Fusion.
-  * Spectral Super-Resolution
+  * __Spectral Super-Resolution__
   1. Tan, L., Dian, R., Li, S., & Liu, J. (2024). Frequency-Spatial Domain Feature Fusion for Spectral Super-Resolution. IEEE Transactions on Computational Imaging.
-  * Image Change Detection
+  * __Image Change Detection__
   1. Liu, J., Li, S., Dian, R., & Song, Z. (2024). MDENet: Multi-domain Differential Excavating Network for Remote Sensing Image Change Detection. IEEE Transactions on Geoscience and Remote Sensing.
   2. Song, Z., Wei, X., Kang, X., Li, S., & Liu, J. (2023). Towards Efficient Remote Sensing Image Change Detection via Cross-temporal Context Learning. IEEE Transactions on Geoscience and Remote Sensing.
 
