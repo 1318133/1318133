@@ -1,5 +1,10 @@
-## Hi there 👋
-I'm Jinyang Liu 刘锦洋
+## Hi there 👋 I'm Jinyang Liu "刘锦洋".
+- 🌱 I'm with the College of Electrical and Information Engineering and the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, Hunan University, Changsha
+- 🔭 Research Interests:
+     Information Fusion
+     Scene interpretation
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **1318133/1318133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
