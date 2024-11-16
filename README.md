@@ -4,7 +4,7 @@
      Information Fusion
      Scene interpretation
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1318133&show_icons=true&theme=radical)](https://github.com/1318133/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1318133&show_icons=true&theme=shades-of-purple)](https://github.com/1318133/github-readme-stats)
 
 <!--
 **1318133/1318133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
