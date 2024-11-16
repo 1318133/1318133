@@ -3,18 +3,17 @@
 - 🌱 I'm with the College of Electrical and Information Engineering and the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, Hunan University, Changsha
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1318133&show_icons=true&theme=react)](https://github.com/1318133/github-readme-stats)
 
-- 🔭 Research Interests:
-  Information Fusion
-  Scene interpretation
+- 🔭 Research Interests:  
+  Information Fusion  
+  Scene interpretation  
   
-- ✨ News:
+- ✨ News:  
   "Denoiser Learning for Infrared and Visible Image Fusion, IEEE TNNLS, 2024 Oct" Paper: https://ieeexplore.ieee.org/abstract/document/10713288 Code: https://github.com/1318133/Denoiser-Learning-for-Infrared-and-Visible-Image-Fusion
 
-- 💬 Google Link:
+- 💬 Google Link:  
   https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en
 
-- ⚡ Research:
-  
+- ⚡ Research:  
   * __Unified image fusion__
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
