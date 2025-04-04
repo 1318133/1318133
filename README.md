@@ -11,7 +11,7 @@
   "Denoiser Learning for Infrared and Visible Image Fusion, IEEE TNNLS, 2024 Oct" Paper: https://ieeexplore.ieee.org/abstract/document/10713288 Code: https://github.com/1318133/Denoiser-Learning-for-Infrared-and-Visible-Image-Fusion
 
 - 💬 Google Link:  
-  https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en
+  [https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=WB6zewgAAAAJ)
 
 - ⚡ Research:  
   * __Unified image fusion__
