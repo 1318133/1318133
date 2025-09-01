@@ -17,6 +17,7 @@
 - ⚡ Research:
   * __Hyperspectral image fusion__
   1. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
+  2. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
   * __Unified image fusion__
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
