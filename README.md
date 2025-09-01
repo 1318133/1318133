@@ -9,12 +9,14 @@
   Scene interpretation  
   
 - ✨ News:  
-  "Denoiser Learning for Infrared and Visible Image Fusion, IEEE TNNLS, 2024 Oct" Paper: https://ieeexplore.ieee.org/abstract/document/10713288 Code: https://github.com/1318133/Denoiser-Learning-for-Infrared-and-Visible-Image-Fusion
+  "Asymptotic spectral mapping for hyperspectral image fusion, IEEE TCSVT, 2025" Paper: [https://ieeexplore.ieee.org/abstract/document/10713288](https://ieeexplore.ieee.org/abstract/document/10770270/) Code: https://github.com/1318133/Denoiser-Learning-for-Infrared-and-Visible-Image-Fusion
 
 - 💬 Google Link:  
   [https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=WB6zewgAAAAJ)
 
-- ⚡ Research:  
+- ⚡ Research:
+  * __Hyperspectral image fusion__
+  1. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
   * __Unified image fusion__
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
