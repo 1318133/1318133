@@ -4,8 +4,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1318133&show_icons=true&theme=react)](https://github.com/1318133/github-readme-stats)
 
 - 🔭 Research Interests:  
-  Information Fusion
-  Hyperspectral Image Processing
+  Information Fusion  
+  Hyperspectral Image Processing  
   Scene interpretation  
   
 - ✨ News:  
