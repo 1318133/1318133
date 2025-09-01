@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm Jinyang Liu "刘锦洋".
 
-- 🌱 I'm with the College of Electrical and Information Engineering and the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, __Hunan University__, Changsha  
+- 🌱 I'm (Postdoctor) with the School of Artificial Intelligence and Robotics (湖南大学, 人工智能与机器人学院) and the Key Laboratory of Visual Perception and Artificial Intelligence of Hunan Province, __Hunan University__, Changsha  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1318133&show_icons=true&theme=react)](https://github.com/1318133/github-readme-stats)
 
 - 🔭 Research Interests:  
-  Information Fusion  
+  Information Fusion
+  Hyperspectral Image Processing
   Scene interpretation  
   
 - ✨ News:  
