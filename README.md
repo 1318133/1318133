@@ -9,7 +9,7 @@
   Scene interpretation  
   
 - ✨ News:  
-  "Asymptotic spectral mapping for hyperspectral image fusion, IEEE TCSVT, 2025" Paper: [https://ieeexplore.ieee.org/abstract/document/10713288](https://ieeexplore.ieee.org/abstract/document/10770270/) Code: [https://github.com/1318133/Denoiser-Learning-for-Infrared-and-Visible-Image-Fusion](https://github.com/1318133/ASMNet)
+  "Asymptotic spectral mapping for hyperspectral image fusion, IEEE TCSVT, 2025" Paper: [https://ieeexplore.ieee.org/abstract/document/10713288](https://ieeexplore.ieee.org/abstract/document/10770270/) Code:[https://github.com/1318133/ASMNet](https://github.com/1318133/ASMNet)
 
 - 💬 Google Link:  
   [https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=WB6zewgAAAAJ)
