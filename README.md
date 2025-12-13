@@ -9,15 +9,17 @@
   Scene interpretation  
   
 - ✨ News:  
-  "Asymptotic spectral mapping for hyperspectral image fusion, IEEE TCSVT, 2025" Paper: [https://ieeexplore.ieee.org/abstract/document/10713288](https://ieeexplore.ieee.org/abstract/document/10770270/) Code:[https://github.com/1318133/ASMNet](https://github.com/1318133/ASMNet)
+  "Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging, IEEE TIP, 2025" Paper: [https://ieeexplore.ieee.org/document/11276863](https://ieeexplore.ieee.org/document/11276863) Code:[https://github.com/1318133/HSC-Sampling](https://github.com/1318133/HSC-Sampling)
 
 - 💬 Google Link:  
   [https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=WB6zewgAAAAJ)
 
 - ⚡ Research:
   * __Hyperspectral image fusion__
-  1. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
-  2. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
+  * 
+  1. Jinyang Liu, Shutao Li, Heng Yang, Renwei Dian, Yuanye Liu. (2025). Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging. IEEE Transactions on Image Processing  
+  2. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
+  3. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
   * __Unified image fusion__
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
