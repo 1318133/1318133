@@ -16,7 +16,6 @@
 
 - ⚡ Research:
   * __Hyperspectral image fusion__
-  * 
   1. Jinyang Liu, Shutao Li, Heng Yang, Renwei Dian, Yuanye Liu. (2025). Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging. IEEE Transactions on Image Processing  
   2. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
   3. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
