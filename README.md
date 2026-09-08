@@ -9,6 +9,7 @@
   Scene interpretation  
   
 - ✨ News:  
+  "SGD2F: Semantic-Guided Dual-Domain Fusion Network for Infrared and Visible Image Fusion, IEEE TCSVT, 2026" Paper: [https://ieeexplore.ieee.org/document/11276863](https://ieeexplore.ieee.org/abstract/document/11660852/)
   "Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging, IEEE TIP, 2025" Paper: [https://ieeexplore.ieee.org/document/11276863](https://ieeexplore.ieee.org/document/11276863) Code:[https://github.com/1318133/HSC-Sampling](https://github.com/1318133/HSC-Sampling)
 
 - 💬 Google Link:  
@@ -23,6 +24,7 @@
   1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
   2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
   3. Liu, J., Li, S., Tan, L., & Dian, R. (2024). Denoiser Learning for Infrared and Visible Image Fusion. IEEE Transactions on Neural Networks and Learning Systems.
+  4. Song Q, Zhan J, Li S, Jinyang Liu, et al. SGD2F: Semantic-Guided Dual-Domain Fusion Network for Infrared and Visible Image Fusion. IEEE Transactions on Circuits and Systems for Video Technology, 2026.
   * __Multi-Focus Image Fusion__
   1. Liu, J., Li, S., Dian, R., & Song, Z. (2023). Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion. IEEE Transactions on Multimedia.
   * __Polarization Image Fusion__
