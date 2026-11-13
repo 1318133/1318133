@@ -8,7 +8,8 @@
   Hyperspectral Image Processing  
   Scene interpretation  
   
-- ✨ News:  
+- ✨ News:
+  "Inter-and Intra-Domain Priors Guided Mosaic-Based Spectral Imaging, IEEE TPAMI, 2026" Paper: [https://ieeexplore.ieee.org/abstract/document/11740807](https://ieeexplore.ieee.org/abstract/document/11740807)
   "SGD2F: Semantic-Guided Dual-Domain Fusion Network for Infrared and Visible Image Fusion, IEEE TCSVT, 2026" Paper: [https://ieeexplore.ieee.org/document/11276863](https://ieeexplore.ieee.org/abstract/document/11660852/)
   "Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging, IEEE TIP, 2025" Paper: [https://ieeexplore.ieee.org/document/11276863](https://ieeexplore.ieee.org/document/11276863) Code:[https://github.com/1318133/HSC-Sampling](https://github.com/1318133/HSC-Sampling)
 
@@ -16,21 +17,19 @@
   [https://scholar.google.com/citations?user=PxUXOdsAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=WB6zewgAAAAJ)
 
 - ⚡ Research:
-  * __Hyperspectral image fusion__
-  1. Jinyang Liu, Shutao Li, Heng Yang, Renwei Dian, Yuanye Liu. (2025). Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging. IEEE Transactions on Image Processing  
-  2. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
-  3. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
-  * __Unified image fusion__
-  1. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
-  2. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
-  3. Liu, J., Li, S., Tan, L., & Dian, R. (2024). Denoiser Learning for Infrared and Visible Image Fusion. IEEE Transactions on Neural Networks and Learning Systems.
-  4. Song Q, Zhan J, Li S, Jinyang Liu, et al. SGD2F: Semantic-Guided Dual-Domain Fusion Network for Infrared and Visible Image Fusion. IEEE Transactions on Circuits and Systems for Video Technology, 2026.
-  * __Multi-Focus Image Fusion__
-  1. Liu, J., Li, S., Dian, R., & Song, Z. (2023). Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion. IEEE Transactions on Multimedia.
-  * __Polarization Image Fusion__
-  1. Liu, J., Li, S., Dian, R., & Song, Z. (2024). DT-F Transformer: Dual transpose fusion transformer for polarization image fusion. Information Fusion.
-  * __Spectral Super-Resolution__
+  * __Hyperspectral imaging__
   1. Tan, L., Dian, R., Li, S., & Liu, J. (2024). Frequency-Spatial Domain Feature Fusion for Spectral Super-Resolution. IEEE Transactions on Computational Imaging.
+  2. Jinyang Liu, Shutao Li, Heng Yang, Renwei Dian, Yuanye Liu. (2025). Heterospectral Structure Compensation Sampling for Hyperspectral Fusion Computational Imaging. IEEE Transactions on Image Processing  
+  3. Jinyang Liu, Shutao Li, Renwei Dian, Ze Song, Lishan Tan. (2025). Asymptotic spectral mapping for hyperspectral image fusion. IEEE Transactions on Circuits and Systems for Video Technology
+  4. Yuanye Liu, Jinyang Liu, Renwei Dian, Shutao Li. (2025). A Selective Re-Learning Mechanism for Hyperspectral Fusion Imaging. 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2025)
+  5. Jinyang Liu, Fangjin Lei, Heng Yang, Shutao Li, Renwei Dian, Nan Wang. (2026). Inter-and Intra-Domain Priors Guided Mosaic-Based Spectral Imaging. IEEE Transactions on Pattern Analysis and Machine Intelligence
+  * __Image fusion__
+  1. Liu, J., Li, S., Dian, R., & Song, Z. (2023). Focus Relationship Perception for Unsupervised Multi-Focus Image Fusion. IEEE Transactions on Multimedia.
+  2. Liu, J., Dian, R., Li, S., & Liu, H. (2023). SGFusion: A saliency guided deep-learning framework for pixel-level image fusion. Information Fusion.
+  3. Liu, J., Li, S., Liu, H., Dian, R., & Wei, X. (2023). A Lightweight Pixel-Level Unified Image Fusion Network. IEEE Transactions on Neural Networks and Learning Systems.
+  4. Liu, J., Li, S., Dian, R., & Song, Z. (2024). DT-F Transformer: Dual transpose fusion transformer for polarization image fusion. Information Fusion.
+  5. Liu, J., Li, S., Tan, L., & Dian, R. (2024). Denoiser Learning for Infrared and Visible Image Fusion. IEEE Transactions on Neural Networks and Learning Systems.
+  6. Song Q, Zhan J, Li S, Jinyang Liu, et al. (2026) SGD2F: Semantic-Guided Dual-Domain Fusion Network for Infrared and Visible Image Fusion. IEEE Transactions on Circuits and Systems for Video Technology, 2026.
   * __Image Change Detection__
   1. Liu, J., Li, S., Dian, R., & Song, Z. (2024). MDENet: Multi-domain Differential Excavating Network for Remote Sensing Image Change Detection. IEEE Transactions on Geoscience and Remote Sensing.
   2. Song, Z., Wei, X., Kang, X., Li, S., & Liu, J. (2023). Towards Efficient Remote Sensing Image Change Detection via Cross-temporal Context Learning. IEEE Transactions on Geoscience and Remote Sensing.
